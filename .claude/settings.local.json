@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter pub:*)",
+      "Bash(./android/gradlew clean:*)",
+      "Bash(flutter build:*)",
+      "Bash(flutter config:*)",
+      "Bash(export TMPDIR=$HOME/tmp)",
+      "Bash(mkdir -p $TMPDIR)"
+    ]
+  }
+}
