@@ -57,7 +57,7 @@ Vibex features a bold, high-contrast **Dark Theme** inspired by cyberpunk aesthe
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/vibex.git
+   git clone https://github.com/anoofx-10/vibex.git
    cd vibex
    ```
 
