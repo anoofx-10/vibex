@@ -89,6 +89,7 @@ The project follows a clean, single-source-of-truth approach using `StatefulWidg
 ## 🛠️ Built With
 
 - **Flutter** - The UI toolkit for beautiful, natively compiled applications.
+- **Shared Preferences** - For local data persistence of your logs and settings.
 - **Custom Animations** - Smooth transitions and floating background elements.
 - **Material 3** - Leveraging the latest design standards.
 
